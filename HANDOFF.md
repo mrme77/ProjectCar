@@ -18,8 +18,9 @@ pipeline remains future work.
 - Verification: Git initialized successfully and staged 44 source, test,
   configuration, documentation, and route-data files; no virtual-environment or
   Python cache files were committed.
-- Next: add the user-provided remote URL as `origin`, then push `main` after
-  confirming it targets the intended remote repository.
+- Created the public `mrme77/ProjectCar` GitHub repository, added it as `origin`,
+  and pushed `main`; the branch now tracks `origin/main`.
+- Next: use a review branch and pull request for subsequent changes.
 
 ## Working practice
 
