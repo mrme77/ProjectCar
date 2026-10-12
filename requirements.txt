@@ -1,0 +1,11 @@
+# Runtime dependencies
+fastapi
+uvicorn
+pydantic
+pydantic-settings
+pika
+requests
+httpx
+
+# Development and test dependencies
+pytest
